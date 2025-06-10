@@ -1,1 +1,3 @@
-Pray to shiva
+Study python||False
+read books||False
+talk to my woman||False
